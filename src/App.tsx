@@ -54,7 +54,7 @@ function App() {
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center justify-center">
             <img 
-              src="/images/logo.jpg" 
+              src="/Abo-Elezz/logo.jpg" 
               alt="Restaurant Logo" 
               className="h-24 w-24 mr-3"
             />
